@@ -19,6 +19,9 @@ O played (6, 0) refusing to win board and giving free move instead. If O played 
  X to play at board 3 and win:  
 ![alt text](https://github.com/karlisolte/ultimate-tic-tac-toe/blob/master/4.png?raw=true)  
 
+Two moves only: (3, 0) which gives opponent free move and (3, 6) which forces O to 6 and blocks O from winning board 3.
+Yet after (3, 6) - (6, 3) - (3, 0) - (5, 4) we have draw. After (3, 0) - (5, 4) - (6, 8) wins, after (3, 0) - (6, 8) - (5, 4) wins.
+
 X to play at board 4 and draw:  
 ![alt text](https://github.com/karlisolte/ultimate-tic-tac-toe/blob/master/5.png?raw=true)  
 
