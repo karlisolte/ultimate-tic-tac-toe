@@ -19,7 +19,8 @@ O played (6, 0) refusing to win board and giving free move instead. If O played 
  X to play at board 3 and win:  
 ![alt text](https://github.com/karlisolte/ultimate-tic-tac-toe/blob/master/4.png?raw=true)  
 
-X to play at board 4 and win:  
+X to play at board 4 and draw:  
 ![alt text](https://github.com/karlisolte/ultimate-tic-tac-toe/blob/master/5.png?raw=true)  
 
-Winning board loses to (0, 1) as O wins also the last board. The only free move loses to (3, 4).
+Winning board loses to (0, 1) as O wins also the last board. The only free move (4, 3) loses to (3, 4).
+Moves (4, 2), (4, 5), (4, 8) loses to (0, 1) - (3, 4) - (4, 3) as O wins one more board. Drawing line is (4, 6)! - (3, 4) - (4, 3) as X manages to hold board 0 while winning board 4.
